@@ -1,5 +1,12 @@
 # reading-notes
 
+#|Page
+--|-----
+1|[My Notes](README.md)
+2|[Growth Mindset](MG.md)
+
+![Mynotes](https://static.wixstatic.com/media/3ec22c_21b2e48ae3914af98cc65ccfdbfe3bc4~mv2_d_4256_2832_s_4_2.jpg/v1/fill/w_1962,h_1710,al_c,q_90,usm_0.66_1.00_0.01/3ec22c_21b2e48ae3914af98cc65ccfdbfe3bc4~mv2_d_4256_2832_s_4_2.webp)
+
 ## **Text Editor** 
  Is software that you download on your computer, allows you to write and manage the text, especially the text that you write to build a web site.
 
@@ -67,8 +74,8 @@ the shell is a part of the operating system that defines how the terminal will b
 
  >Linux is case sensitive.
 
-to see my notes about Growth Mindset go to
- MG.md
+to see my notes about Growth Mindset Click [here](MG.md)
+ 
 
 
 
