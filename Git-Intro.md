@@ -219,4 +219,5 @@ Cloned repositories, Git will automatically give the name “origin” to the se
 ### Seeing Your Remotes
 By using ```git remote -v```, you can view all the remote URLs next to their corresponding short names.
 
-
+----------------------------
+ # [Back to Home](README.md)
