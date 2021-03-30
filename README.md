@@ -67,6 +67,10 @@ the shell is a part of the operating system that defines how the terminal will b
 
  >Linux is case sensitive.
 
-See My Growth Minset Notes  MG.md 
+to see my notes about Growth Mindset go to
+ MG.md
+
+
+
 
 
