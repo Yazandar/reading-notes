@@ -5,6 +5,8 @@
 1|[My Notes](notes.md)
 2|[Growth Mindset](MG.md)
 3|[Git Introduction](Git-Intro.md)
+4|[Markdown](markd.md)
+5|[GitHub](github.md)
 
 Here where I keep my notes, and where I try to practice what I've learnt.
 

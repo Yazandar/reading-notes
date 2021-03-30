@@ -66,4 +66,4 @@ the shell is a part of the operating system that defines how the terminal will b
  >Linux is case sensitive.
  ----------------------------
 
- # [Back to Home](README.md)
+  [Back to Home](README.md)
