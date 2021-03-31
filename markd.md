@@ -140,5 +140,5 @@ GitHub supports [emoji](https://docs.github.com/en/github/writing-on-github/basi
 
 To see a list of every image we support, check out the [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
 
---------------
+
 [Back to Home](README.md)

@@ -64,6 +64,6 @@ the shell is a part of the operating system that defines how the terminal will b
  >is an extensionless system, files can have any extension they like or none at all.
 
  >Linux is case sensitive.
- ----------------------------
+ 
 
   [Back to Home](README.md)
