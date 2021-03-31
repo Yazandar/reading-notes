@@ -7,6 +7,7 @@
 3|[Git Introduction](Git-Intro.md)
 4|[Markdown](markd.md)
 5|[GitHub](github.md)
+6|[HTML Notes](html.md)
 
 Here where I keep my notes, and where I try to practice what I've learnt.
 
