@@ -3,22 +3,27 @@
 ## Definitions
 
 ### Version Control
+
 >Is a system that allows you to revisit various versions of a file or set of files by recording changes.Version Control System (VCS). And a Local VCS entails one database on your hard disk that stores changes to files.
 
 ### Centralized Version Control System (CVCS)
+
 >This system entails a single server storing all changes and file versions, so a developer team can collaborate on a single file or set of files. And allowes programmers to have more knowledge of team members’ activities with certain files.
 
 ### Distributed Version Control systems (DVCS)
+
 >Allows for multiple mirrored repositories, programmers working in teams can collaborate with each other in various ways to complete a joint project, which enables the use of various simultaneous workflows.
 ----------
 
 
 ## Git
+
 >Git is a DVCS that stores data in a file system made up of snapshots. Each time you save a changed version of your project — called commit — Git creates a snapshot of the file and stores a reference to it. If the file has not changed, Git only stores a reference to the already-stored identical version of it.
 
 >relies on local operations because most necessary information can be found in local resources. This allows for process expediency because a project’s history resides on the local disk
 
 ### Files in Git can reside in three main states :
+
 ![States](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
 
 * Committed
@@ -27,8 +32,11 @@
     * File has been changed but not committed to the database.
 * Staged
     * Flagged a file’s changed version to be committed in the next snapshot.
+
 ---------------------
+
    ## Download Git
+   
    In order to use Git, your computer must have it available. If you already have Git on your computer, you should make sure you have the latest version.
 
 Git can be installed in three ways:
