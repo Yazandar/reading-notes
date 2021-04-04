@@ -9,6 +9,7 @@
 5|[GitHub](github.md)
 6|[HTML Notes](html.md)
 7|[JavaScript Notes](javascript.md)
+8|[Operators and loops](operator-loops.md)
 
 -----------------------------------
 
