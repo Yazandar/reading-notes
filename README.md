@@ -10,6 +10,7 @@
 6|[HTML Notes](html.md)
 7|[JavaScript Notes](javascript.md)
 8|[Operators and loops](operators-loops.md)
+9|[CSS and colors](css.md)
 
 -----------------------------------
 
