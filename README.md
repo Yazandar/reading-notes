@@ -2,9 +2,10 @@
 
 *Code 201 Reading Notes*
 
+
 |#|201 reading notes|
 |---|--------|
-|1|          |
+|1| [Class-01](class-01.md)|
 |2|          |
 |3|          |
 |4|          |
@@ -23,6 +24,8 @@
 
 
 *102 reading notes*
+
+
 |#|102 reading notes|
 |----|-----|
 |1|[My Notes](notes.md)|
