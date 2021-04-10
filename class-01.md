@@ -1,6 +1,6 @@
 
 
-## Intriduction
+## Introduction
 
 * Its not hard to learn, you dont have to be programmer to read and understand code used to write web pages.
 
@@ -14,11 +14,11 @@
 
 * ```HTML``` used to to create the structure of the pages.
 
-* Using ```HTML``` elements we can create web page strcture, usually these elements made by two tags, opening tag and closing tag.
+* Using ```HTML``` elements we can create web page structure, usually these elements made by two tags, opening tag and closing tag.
 ![opening and closing tag](https://marcysutton.github.io/gdi-core-html-css/images/tagbreakdown.png)
 
 
-* For more information about the element we use attributes, they appeare in the opening tag. They made up of two parts ```name``` and ```value```.
+* For more information about the element we use attributes, they appear in the opening tag. They made up of two parts ```name``` and ```value```.
 
 * ```<body>``` element indicates what appear in main browser window.
 
@@ -32,27 +32,27 @@
 
 * Its Useful to use comments in the code, to explain to yourself later the code, or to others. Use ```<!-- comment -->``` for comments.
 
-* ```id``` attribute can be carried by ```HTML``` element to identfy it uniquely, and giving an element a unique identity allows to style it specifically. also known as global attribute because it can be used on any element.
+* ```id``` attribute can be carried by ```HTML``` element to identify it uniquely, and giving an element a unique identity allows to style it specifically. also known as global attribute because it can be used on any element.
 
 * ```HTML``` elements also can carry ```class``` attribute, used to identify several elements as being different from the others.
 
-* Block elemnts used to start a new line, such as ```h1```,```<p>``` and ```<ul>```.
+* Block elements used to start a new line, such as ```h1```,```<p>``` and ```<ul>```.
 
 * Inline elements used to continue on the same line, such as ```<a>``` and ```<img>```.
 
-* ```<div>``` element used to group set of elements togother in one block. Using ```<div>``` element make it easier to follow the code.
+* ```<div>``` element used to group set of elements together in one block. Using ```<div>``` element make it easier to follow the code.
 
 * ```<span>``` element act like an inline equivalent of ```<div>```.
 
 * ```<iframe>``` used to add a little window in your web page from another page. this element use attributes : ```src```, ```height``` and ```width```.
 
-* ```<meta>``` element in the ```<head>``` element, contains informmation about the web page, used for number of purposes such as telling search engines about your page. And its an empty elemnt (does not need closing tag). Attributes here used commonly  : describtion, keywords, and rabots. also used http-equiv and content attributes such ass author, pragma, and expires.
+* ```<meta>``` element in the ```<head>``` element, contains information about the web page, used for number of purposes such as telling search engines about your page. And its an empty element (does not need closing tag). Attributes here used commonly  : description, keywords, and rabots. also used http-equiv and content attributes such ass author, pragma, and expires.
 
 ## HTML layout
 
 ![html layout](https://pbs.twimg.com/media/D9L9D7hUIAIiCjc.jpg)
 
-* ```<header>``` appears on the top of the page, ```<footer>``` appears on the buttom of the page, and can be used for ```<article>``` or ```<section>``` in page.
+* ```<header>``` appears on the top of the page, ```<footer>``` appears on the bottom of the page, and can be used for ```<article>``` or ```<section>``` in page.
 
 * ```<nav>``` element used for navigate blocks in the page.
 
@@ -60,13 +60,13 @@
 
 * ```<asides>``` when this element used inside ```<article>``` it contains information about the article, if its outside it acts like container for for the content that related to the entire page.
 
-```<section>``` element used to group related content togother, and it may contain several distinct ```<article>``` elements.
+* ```<section>``` element used to group related content together, and it may contain several distinct ```<article>``` elements.
 
 * ```<hgroup>``` element used to group set of one or more of ```<h1>```through ```<h6>``` elements.
 
 ## Process and Design
 
-Understanding your taget audience would help you in designing your web page.
+Understanding your target audience would help you in designing your web page.
 
 * To understand your audience ask yourself
 
@@ -92,7 +92,7 @@ Its your graphical plan or your website blueprint that shows the hierarchy of th
 
 Site navigation helps people to find where they want to go, and understand what the site is about.
 
-* Navigayion should follow these principles 
+* Navigation should follow these principles 
     * Concise
     * Clear
     * Selective
