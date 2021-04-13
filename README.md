@@ -7,8 +7,8 @@
 |---|--------|
 |1| [Class-01](class-01.md)|
 |2| [Class-02](class-02.md)|
-|3| [Class03](class-03.md)|
-|4|          |
+|3| [Class-03](class-03.md)|
+|4| [Class-04](class-04.md)|
 |5|          |
 |6|          |
 |7|          |
