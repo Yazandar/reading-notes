@@ -5,7 +5,7 @@
     * Be relevant
     * Convey information
     * Convey the right mood
-    * be instantly recognisable
+    * be instantly recognizable
     * Fit the color palette
 
 * If you are building a site from scratch, it is good practice to create a folder for all of the images the site uses.
@@ -16,7 +16,7 @@
 
 * ``alt`` Provides a text description of the image.
 
-* ```title``` Provides additional informations about the image.
+* ```title``` Provides additional information about the image.
 
 * ```height``` this specifies the height of the image in pexels.
 

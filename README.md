@@ -10,7 +10,7 @@
 |3| [Class-03](class-03.md)|
 |4| [Class-04](class-04.md)|
 |5| [Class-05](class-05.md)|
-|6|          |
+|6| [Class-06](class-06.md)|
 |7|          |
 |8|          |
 |9|          |
