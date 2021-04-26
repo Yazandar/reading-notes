@@ -14,9 +14,9 @@
 |7| [Class-07](class-07.md)|
 |8| [Class-08](class-08.md)|
 |9| [Class-09](class-09.md)|
-|10| [Class-10](class-10.md)|
-|11| [Class-11](class-11.md)|
-|12|         |
+|10|[Class-10](class-10.md)|
+|11|[Class-11](class-11.md)|
+|12|[Class-12](class-12.md)|
 |13|         |
 |14|         |
 |15|         |
